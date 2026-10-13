@@ -6,6 +6,7 @@
   <packageId>uranv.settlementvisittracker</packageId>
   <supportedVersions>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <description>Records how long it has been since the player last visited each non-player settlement.</description>
   <loadAfter>
